@@ -1,4 +1,3 @@
-// import { v1 as uuidv1 } from 'uuid';
 import { GET_ITEMS, ADD_ITEM, DELETE_ITEM, ITEMS_LOADING } from '../actions/types';
 
 const initialState = {
