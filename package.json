@@ -19,7 +19,8 @@
     "express": "^4.17.1",
     "mongoose": "^5.9.24",
     "react-redux": "^7.2.1",
-    "redux": "^4.0.5"
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
